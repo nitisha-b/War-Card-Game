@@ -9,5 +9,5 @@ As the player hits the "Deal" button, the game displays two randomly selected ca
 <img src= "http://g.recordit.co/DiJ1kPBKYB.gif" width=300 alt="Demo of the app">
 
 ## Screenshots
-<img src= "https://raw.github.com/nitisha-b/War-Card-Game/master/Screenshot1.png" width=250 alt="Screenshot of the beginning of the game"> <img src="https://raw.github.com/nitisha-b/War-Card-Game/master/Screenshot2.png" width= 250 alt="Screenshot of the game with scores">
+<img src= "Screenshot1.png" width=250 alt="Screenshot of the beginning of the game"> <img src="https://raw.github.com/nitisha-b/War-Card-Game/master/Screenshot2.png" width= 250 alt="Screenshot of the game with scores">
 
