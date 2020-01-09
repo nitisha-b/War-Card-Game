@@ -6,7 +6,7 @@ Edited line.
 
 As the player hits the "Deal" button, the game displays two randomly selected cards. It keeps score of the player and the CPU, by determining which card is higher. 
 
-It's a fun game. 
+It's a fun game and suited to all ages.
 
 ## App Walkthrough
 <img src= "http://g.recordit.co/DiJ1kPBKYB.gif" width=300 alt="Demo of the app">
